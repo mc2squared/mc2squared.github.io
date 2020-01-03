@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Maya Quinn. I'm a Full Time Student, working on Bug Bounties, Open Source Software and my hosting company [MC2.WTF](https://mc2.wtf) in my free time. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Know too much about punk music
+- Loss Prevention follows me because I always wear hoodies and never buy anything
+- Really great hair
+- A morbidly obese cat
+- Laura Jane Grace likes my boots
 
 What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
